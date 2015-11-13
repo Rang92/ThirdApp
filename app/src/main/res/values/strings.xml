@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThirdApp</string>
+    <string name="enter_name_textview">Enter your name:</string>
+    <string name="enter_name">Send</string>
+    <string name="calling_activity_message">Calling activity was:</string>
+    <string name="get_name">Who was here?</string>
+    <string name="user_name">The username was</string>
+</resources>
